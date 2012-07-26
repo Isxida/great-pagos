@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  direccion: MyText
+  nro_direccion: MyString
+  tb_via: 
+
+two:
+  direccion: MyText
+  nro_direccion: MyString
+  tb_via: 

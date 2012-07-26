@@ -1,6 +1,6 @@
 Pagos::Application.routes.draw do
   
-  resources :tb_via
+  resources :tb_via 
 
   resources :mini_pagos
 
