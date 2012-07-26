@@ -1,0 +1,2 @@
+class DireccionController < ApplicationController
+end
