@@ -1,0 +1,2260 @@
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-07-26 11:42:01 -0500
+Connecting to database specified by database.yml
+Served asset /rails.png - 200 OK (182ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 11:57:32 -0500
+Connecting to database specified by database.yml
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (84.0ms)
+Compiled home.css  (82ms)  (pid 4168)
+Compiled application.css  (149ms)  (pid 4168)
+Compiled jquery.js  (5ms)  (pid 4168)
+Compiled jquery_ujs.js  (0ms)  (pid 4168)
+Compiled home.js  (734ms)  (pid 4168)
+Compiled application.js  (1007ms)  (pid 4168)
+Completed 200 OK in 2067ms (Views: 2067.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 11:57:40 -0500
+Served asset /application.css - 200 OK (6ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 11:57:40 -0500
+Served asset /home.css - 200 OK (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 11:57:40 -0500
+Served asset /jquery.js - 200 OK (87ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 11:57:41 -0500
+Served asset /application.js - 200 OK (183ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 11:57:41 -0500
+Served asset /jquery_ujs.js - 200 OK (13ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 11:57:41 -0500
+Served asset /home.js - 200 OK (42ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 12:04:17 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 35ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 12:04:17 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 12:04:17 -0500
+Served asset /home.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 12:04:17 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 12:04:17 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 12:04:17 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 12:04:17 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 12:05:27 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 30ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 12:05:27 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 12:05:27 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 12:05:27 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 12:05:27 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 12:05:27 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 12:05:27 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 12:07:54 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 24ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 12:07:54 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 12:07:54 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 12:07:54 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 12:07:54 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 12:07:54 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 12:07:54 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 12:08:58 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 24ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 12:08:58 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 12:08:58 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 12:08:58 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 12:08:58 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 12:08:58 -0500
+Served asset /home.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 12:08:58 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 12:10:08 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 31ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 12:10:08 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 12:10:08 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 12:10:08 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 12:10:08 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 12:10:08 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 12:10:08 -0500
+Served asset /application.js - 304 Not Modified (2ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 12:31:46 -0500
+Connecting to database specified by database.yml
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (81.0ms)
+Compiled pagos.css  (63ms)  (pid 1132)
+Compiled scaffolds.css  (28ms)  (pid 1132)
+Compiled application.css  (283ms)  (pid 1132)
+Compiled pagos.js  (376ms)  (pid 1132)
+Compiled application.js  (507ms)  (pid 1132)
+Completed 200 OK in 1865ms (Views: 1863.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 12:31:53 -0500
+Served asset /application.css - 304 Not Modified (22ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 12:31:54 -0500
+Served asset /home.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 12:31:54 -0500
+Served asset /scaffolds.css - 200 OK (24ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 12:31:54 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 12:31:54 -0500
+Served asset /jquery.js - 304 Not Modified (82ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 12:31:54 -0500
+Served asset /home.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/pagos.css?body=1" for 127.0.0.1 at 2012-07-26 12:31:54 -0500
+Served asset /pagos.css - 200 OK (5ms)
+
+
+Started GET "/assets/pagos.js?body=1" for 127.0.0.1 at 2012-07-26 12:31:54 -0500
+Served asset /pagos.js - 200 OK (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 12:31:54 -0500
+Served asset /application.js - 304 Not Modified (138ms)
+
+
+Started GET "/pagos" for 127.0.0.1 at 2012-07-26 12:31:59 -0500
+
+ArgumentError (Unknown validator: 'PagoValidator'):
+  app/models/pago.rb:4:in `<class:Pago>'
+  app/models/pago.rb:1:in `<top (required)>'
+  app/controllers/pagos_controller.rb:1:in `<top (required)>'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (7.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (139.0ms)
+
+
+Started GET "/pagos" for 127.0.0.1 at 2012-07-26 12:32:50 -0500
+
+ArgumentError (Unknown validator: 'PagoValidator'):
+  app/models/pago.rb:4:in `<class:Pago>'
+  app/models/pago.rb:1:in `<top (required)>'
+  app/controllers/pagos_controller.rb:1:in `<top (required)>'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (7.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (27.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (134.0ms)
+
+
+Started GET "/pagos.json" for 127.0.0.1 at 2012-07-26 12:33:33 -0500
+
+NoMethodError (undefined method `key?' for nil:NilClass):
+  actionpack (3.2.6) lib/action_controller/metal/hide_actions.rb:36:in `visible_action?'
+  actionpack (3.2.6) lib/action_controller/metal/hide_actions.rb:18:in `method_for_action'
+  actionpack (3.2.6) lib/action_controller/metal/implicit_render.rb:14:in `method_for_action'
+  actionpack (3.2.6) lib/action_controller/metal/compatibility.rb:61:in `method_for_action'
+  actionpack (3.2.6) lib/abstract_controller/base.rb:115:in `process'
+  actionpack (3.2.6) lib/abstract_controller/rendering.rb:45:in `process'
+  actionpack (3.2.6) lib/action_controller/metal.rb:203:in `dispatch'
+  actionpack (3.2.6) lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  actionpack (3.2.6) lib/action_controller/metal.rb:246:in `block in action'
+  actionpack (3.2.6) lib/action_dispatch/routing/route_set.rb:73:in `call'
+  actionpack (3.2.6) lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  actionpack (3.2.6) lib/action_dispatch/routing/route_set.rb:36:in `call'
+  journey (1.0.4) lib/journey/router.rb:68:in `block in call'
+  journey (1.0.4) lib/journey/router.rb:56:in `each'
+  journey (1.0.4) lib/journey/router.rb:56:in `call'
+  actionpack (3.2.6) lib/action_dispatch/routing/route_set.rb:600:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  rack (1.4.1) lib/rack/etag.rb:23:in `call'
+  rack (1.4.1) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:205:in `context'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:200:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/cookies.rb:338:in `call'
+  activerecord (3.2.6) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.6) lib/active_record/connection_adapters/abstract/connection_pool.rb:473:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.6) lib/active_support/callbacks.rb:405:in `_run__357999994__call__629627528__callbacks'
+  activesupport (3.2.6) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.6) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.6) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.6) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.6) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.6) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.6) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.6) lib/rails/engine.rb:479:in `call'
+  railties (3.2.6) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.6) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (107.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 12:36:00 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 68ms (Views: 68.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 12:36:00 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 12:36:01 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pagos.css?body=1" for 127.0.0.1 at 2012-07-26 12:36:01 -0500
+Served asset /pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 12:36:01 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 12:36:01 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 12:36:01 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 12:36:01 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/pagos.js?body=1" for 127.0.0.1 at 2012-07-26 12:36:01 -0500
+Served asset /pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 12:36:01 -0500
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/pagos" for 127.0.0.1 at 2012-07-26 12:36:03 -0500
+
+NoMethodError (undefined method `key?' for nil:NilClass):
+  actionpack (3.2.6) lib/action_controller/metal/hide_actions.rb:36:in `visible_action?'
+  actionpack (3.2.6) lib/action_controller/metal/hide_actions.rb:18:in `method_for_action'
+  actionpack (3.2.6) lib/action_controller/metal/implicit_render.rb:14:in `method_for_action'
+  actionpack (3.2.6) lib/action_controller/metal/compatibility.rb:61:in `method_for_action'
+  actionpack (3.2.6) lib/abstract_controller/base.rb:115:in `process'
+  actionpack (3.2.6) lib/abstract_controller/rendering.rb:45:in `process'
+  actionpack (3.2.6) lib/action_controller/metal.rb:203:in `dispatch'
+  actionpack (3.2.6) lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  actionpack (3.2.6) lib/action_controller/metal.rb:246:in `block in action'
+  actionpack (3.2.6) lib/action_dispatch/routing/route_set.rb:73:in `call'
+  actionpack (3.2.6) lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  actionpack (3.2.6) lib/action_dispatch/routing/route_set.rb:36:in `call'
+  journey (1.0.4) lib/journey/router.rb:68:in `block in call'
+  journey (1.0.4) lib/journey/router.rb:56:in `each'
+  journey (1.0.4) lib/journey/router.rb:56:in `call'
+  actionpack (3.2.6) lib/action_dispatch/routing/route_set.rb:600:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  rack (1.4.1) lib/rack/etag.rb:23:in `call'
+  rack (1.4.1) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:205:in `context'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:200:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/cookies.rb:338:in `call'
+  activerecord (3.2.6) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.6) lib/active_record/connection_adapters/abstract/connection_pool.rb:473:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.6) lib/active_support/callbacks.rb:405:in `_run__357999994__call__629627528__callbacks'
+  activesupport (3.2.6) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.6) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.6) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.6) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.6) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.6) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.6) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.6) lib/rails/engine.rb:479:in `call'
+  railties (3.2.6) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.6) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (6.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (133.0ms)
+
+
+Started GET "/pagos" for 127.0.0.1 at 2012-07-26 12:36:26 -0500
+Processing by PagosController#index as HTML
+PG::Error: ERROR:  no existe la relación «pagos»
+LINE 4:              WHERE a.attrelid = '"pagos"'::regclass
+                                        ^
+:             SELECT a.attname, format_type(a.atttypid, a.atttypmod), d.adsrc, a.attnotnull
+              FROM pg_attribute a LEFT JOIN pg_attrdef d
+                ON a.attrelid = d.adrelid AND a.attnum = d.adnum
+             WHERE a.attrelid = '"pagos"'::regclass
+               AND a.attnum > 0 AND NOT a.attisdropped
+             ORDER BY a.attnum
+
+Completed 500 Internal Server Error in 615ms
+
+ArgumentError (invalid byte sequence in UTF-8):
+  app/controllers/pagos_controller.rb:5:in `index'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (6.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (106.0ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (1070.0ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying(255) NOT NULL) [0m
+  [1m[35m (6.0ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, pg_get_indexdef(d.indexrelid), t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'schema_migrations'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname = ANY (current_schemas(false)) )
+ ORDER BY i.relname
+
+  [1m[36m (79.0ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (11.0ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+Migrating to CreateMiniPagos (20120726174813)
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateMiniPagos (20120726174813)
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (1.0ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (3.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateMiniPagos (20120726174813)
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (3.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateMiniPagos (20120726174813)
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (1.0ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (2.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateMiniPagos (20120726174813)
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36m (0.0ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (4.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateMiniPagos (20120726174813)
+  [1m[35m (1.0ms)[0m  BEGIN
+  [1m[36m (1.0ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (3.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateMiniPagos (20120726174813)
+  [1m[35m (1.0ms)[0m  BEGIN
+  [1m[36m (474.0ms)[0m  [1mCREATE TABLE "mini_pagos" ("id" serial primary key, "id_pago" integer, "dni" text, "folio" text, "monto" float, "fecha_pago" date, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL) [0m
+  [1m[35m (17.0ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ('20120726174813')
+  [1m[36m (3.0ms)[0m  [1mCOMMIT[0m
+  [1m[35m (17.0ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36mPK and serial sequence (6.0ms)[0m  [1m SELECT attr.attname, seq.relname
+ FROM pg_class seq,
+ pg_attribute attr,
+ pg_depend dep,
+ pg_namespace name,
+ pg_constraint cons
+ WHERE seq.oid = dep.objid
+ AND seq.relkind = 'S'
+ AND attr.attrelid = dep.refobjid
+ AND attr.attnum = dep.refobjsubid
+ AND attr.attrelid = cons.conrelid
+ AND attr.attnum = cons.conkey[1]
+ AND cons.contype = 'p'
+ AND dep.refobjid = '"acidtest"'::regclass
+[0m
+  [1m[35mPK and custom sequence (14.0ms)[0m   SELECT attr.attname,
+ CASE
+ WHEN split_part(def.adsrc, '''', 2) ~ '.' THEN
+ substr(split_part(def.adsrc, '''', 2),
+ strpos(split_part(def.adsrc, '''', 2), '.')+1)
+ ELSE split_part(def.adsrc, '''', 2)
+ END
+ FROM pg_class t
+ JOIN pg_attribute attr ON (t.oid = attrelid)
+ JOIN pg_attrdef def ON (adrelid = attrelid AND adnum = attnum)
+ JOIN pg_constraint cons ON (conrelid = adrelid AND adnum = conkey[1])
+ WHERE t.oid = '"acidtest"'::regclass
+ AND cons.contype = 'p'
+ AND def.adsrc ~* 'nextval'
+
+  [1m[36m (12.0ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, pg_get_indexdef(d.indexrelid), t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'acidtest'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname = ANY (current_schemas(false)) )
+ ORDER BY i.relname
+[0m
+  [1m[35mPK and serial sequence (5.0ms)[0m   SELECT attr.attname, seq.relname
+ FROM pg_class seq,
+ pg_attribute attr,
+ pg_depend dep,
+ pg_namespace name,
+ pg_constraint cons
+ WHERE seq.oid = dep.objid
+ AND seq.relkind = 'S'
+ AND attr.attrelid = dep.refobjid
+ AND attr.attnum = dep.refobjsubid
+ AND attr.attrelid = cons.conrelid
+ AND attr.attnum = cons.conkey[1]
+ AND cons.contype = 'p'
+ AND dep.refobjid = '"favorite_books"'::regclass
+
+  [1m[36mPK and custom sequence (2.0ms)[0m  [1m SELECT attr.attname,
+ CASE
+ WHEN split_part(def.adsrc, '''', 2) ~ '.' THEN
+ substr(split_part(def.adsrc, '''', 2),
+ strpos(split_part(def.adsrc, '''', 2), '.')+1)
+ ELSE split_part(def.adsrc, '''', 2)
+ END
+ FROM pg_class t
+ JOIN pg_attribute attr ON (t.oid = attrelid)
+ JOIN pg_attrdef def ON (adrelid = attrelid AND adnum = attnum)
+ JOIN pg_constraint cons ON (conrelid = adrelid AND adnum = conkey[1])
+ WHERE t.oid = '"favorite_books"'::regclass
+ AND cons.contype = 'p'
+ AND def.adsrc ~* 'nextval'
+[0m
+  [1m[35m (2.0ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, pg_get_indexdef(d.indexrelid), t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'favorite_books'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname = ANY (current_schemas(false)) )
+ ORDER BY i.relname
+
+  [1m[36mPK and serial sequence (5.0ms)[0m  [1m SELECT attr.attname, seq.relname
+ FROM pg_class seq,
+ pg_attribute attr,
+ pg_depend dep,
+ pg_namespace name,
+ pg_constraint cons
+ WHERE seq.oid = dep.objid
+ AND seq.relkind = 'S'
+ AND attr.attrelid = dep.refobjid
+ AND attr.attnum = dep.refobjsubid
+ AND attr.attrelid = cons.conrelid
+ AND attr.attnum = cons.conkey[1]
+ AND cons.contype = 'p'
+ AND dep.refobjid = '"mini_pagos"'::regclass
+[0m
+  [1m[35m (1.0ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, pg_get_indexdef(d.indexrelid), t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'mini_pagos'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname = ANY (current_schemas(false)) )
+ ORDER BY i.relname
+
+  [1m[36mPK and serial sequence (5.0ms)[0m  [1m SELECT attr.attname, seq.relname
+ FROM pg_class seq,
+ pg_attribute attr,
+ pg_depend dep,
+ pg_namespace name,
+ pg_constraint cons
+ WHERE seq.oid = dep.objid
+ AND seq.relkind = 'S'
+ AND attr.attrelid = dep.refobjid
+ AND attr.attnum = dep.refobjsubid
+ AND attr.attrelid = cons.conrelid
+ AND attr.attnum = cons.conkey[1]
+ AND cons.contype = 'p'
+ AND dep.refobjid = '"suscriptores"'::regclass
+[0m
+  [1m[35mPK and custom sequence (2.0ms)[0m   SELECT attr.attname,
+ CASE
+ WHEN split_part(def.adsrc, '''', 2) ~ '.' THEN
+ substr(split_part(def.adsrc, '''', 2),
+ strpos(split_part(def.adsrc, '''', 2), '.')+1)
+ ELSE split_part(def.adsrc, '''', 2)
+ END
+ FROM pg_class t
+ JOIN pg_attribute attr ON (t.oid = attrelid)
+ JOIN pg_attrdef def ON (adrelid = attrelid AND adnum = attnum)
+ JOIN pg_constraint cons ON (conrelid = adrelid AND adnum = conkey[1])
+ WHERE t.oid = '"suscriptores"'::regclass
+ AND cons.contype = 'p'
+ AND def.adsrc ~* 'nextval'
+
+  [1m[36m (2.0ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, pg_get_indexdef(d.indexrelid), t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'suscriptores'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname = ANY (current_schemas(false)) )
+ ORDER BY i.relname
+[0m
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 13:03:47 -0500
+Connecting to database specified by database.yml
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (236.0ms)
+Completed 500 Internal Server Error in 495ms
+
+ActionView::Template::Error (undefined local variable or method `pagos_path' for #<#<Class:0x36e85a8>:0x36e8ed8>):
+    13: 	</div>
+    14: 	<div>
+    15: 		<h3>
+    16: 			O puedes revisar nuestros <%= link_to "mini_pagos", pagos_path %>
+    17: 		</h3>
+    18: 	</div>
+    19: </footer>
+  app/views/home/index.html.erb:16:in `_app_views_home_index_html_erb__324022812_28902552'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (6.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (97.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 13:03:58 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (14.0ms)
+Completed 500 Internal Server Error in 30ms
+
+ActionView::Template::Error (undefined local variable or method `pagos_path' for #<#<Class:0x36e85a8>:0x503fe8>):
+    13: 	</div>
+    14: 	<div>
+    15: 		<h3>
+    16: 			O puedes revisar nuestros <%= link_to "mini_pagos", pagos_path %>
+    17: 		</h3>
+    18: 	</div>
+    19: </footer>
+  app/views/home/index.html.erb:16:in `_app_views_home_index_html_erb__324022812_28902552'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (7.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (120.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 13:04:07 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (13.0ms)
+Completed 500 Internal Server Error in 28ms
+
+ActionView::Template::Error (undefined local variable or method `pagos_path' for #<#<Class:0x36e85a8>:0x2a24f48>):
+    13: 	</div>
+    14: 	<div>
+    15: 		<h3>
+    16: 			O puedes revisar nuestros <%= link_to "mini-pagos", pagos_path %>
+    17: 		</h3>
+    18: 	</div>
+    19: </footer>
+  app/views/home/index.html.erb:16:in `_app_views_home_index_html_erb__324022812_24779652'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (7.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (119.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 13:04:09 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (14.0ms)
+Completed 500 Internal Server Error in 31ms
+
+ActionView::Template::Error (undefined local variable or method `pagos_path' for #<#<Class:0x36e85a8>:0x29d3960>):
+    13: 	</div>
+    14: 	<div>
+    15: 		<h3>
+    16: 			O puedes revisar nuestros <%= link_to "mini-pagos", pagos_path %>
+    17: 		</h3>
+    18: 	</div>
+    19: </footer>
+  app/views/home/index.html.erb:16:in `_app_views_home_index_html_erb__324022812_24779652'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (7.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (95.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 13:05:00 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (7.0ms)
+Compiled mini_pagos.css  (125ms)  (pid 4592)
+Compiled application.css  (243ms)  (pid 4592)
+Compiled mini_pagos.js  (550ms)  (pid 4592)
+Compiled application.js  (644ms)  (pid 4592)
+Completed 200 OK in 1822ms (Views: 1822.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:02 -0500
+Served asset /home.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:02 -0500
+Served asset /application.css - 304 Not Modified (13ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:02 -0500
+Served asset /mini_pagos.css - 200 OK (8ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:02 -0500
+Served asset /scaffolds.css - 304 Not Modified (28ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:02 -0500
+Served asset /jquery.js - 304 Not Modified (100ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:03 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:03 -0500
+Served asset /mini_pagos.js - 200 OK (6ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:03 -0500
+Served asset /application.js - 304 Not Modified (147ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:03 -0500
+Served asset /home.js - 304 Not Modified (6ms)
+
+
+Started GET "/mini_pagos" for 127.0.0.1 at 2012-07-26 13:05:05 -0500
+Processing by MiniPagosController#index as HTML
+  [1m[36mMiniPago Load (2.0ms)[0m  [1mSELECT "mini_pagos".* FROM "mini_pagos" [0m
+  Rendered mini_pagos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 602ms (Views: 51.0ms | ActiveRecord: 75.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:05 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:06 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:06 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:06 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:06 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:06 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:06 -0500
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/mini_pagos/new" for 127.0.0.1 at 2012-07-26 13:05:08 -0500
+Processing by MiniPagosController#new as HTML
+  Rendered mini_pagos/_form.html.erb (110.0ms)
+  Rendered mini_pagos/new.html.erb within layouts/application (235.0ms)
+Completed 200 OK in 280ms (Views: 266.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:09 -0500
+Served asset /application.css - 304 Not Modified (13ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:09 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:09 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:09 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:09 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:09 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:09 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started POST "/mini_pagos" for 127.0.0.1 at 2012-07-26 13:05:49 -0500
+Processing by MiniPagosController#create as HTML
+  Parameters: {"utf8"=>"âœ“", "authenticity_token"=>"zx5/LLHRfGihtQqYm4StWDJsy0WwNKTxymgEJ6W33H0=", "mini_pago"=>{"id_pago"=>"1", "dni"=>"72582819", "folio"=>"0008394938491823", "monto"=>"9000", "fecha_pago(1i)"=>"2007", "fecha_pago(2i)"=>"5", "fecha_pago(3i)"=>"13"}, "commit"=>"Create Mini pago"}
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36mSQL (101.0ms)[0m  [1mINSERT INTO "mini_pagos" ("created_at", "dni", "fecha_pago", "folio", "id_pago", "monto", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["created_at", Thu, 26 Jul 2012 18:05:49 UTC +00:00], ["dni", "72582819"], ["fecha_pago", Sun, 13 May 2007], ["folio", "0008394938491823"], ["id_pago", 1], ["monto", 9000.0], ["updated_at", Thu, 26 Jul 2012 18:05:49 UTC +00:00]]
+  [1m[35m (22.0ms)[0m  COMMIT
+Redirected to http://localhost:3000/mini_pagos/1
+Completed 302 Found in 132ms (ActiveRecord: 123.0ms)
+
+
+Started GET "/mini_pagos/1" for 127.0.0.1 at 2012-07-26 13:05:50 -0500
+Processing by MiniPagosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mMiniPago Load (5.0ms)[0m  [1mSELECT "mini_pagos".* FROM "mini_pagos" WHERE "mini_pagos"."id" = $1 LIMIT 1[0m  [["id", "1"]]
+  Rendered mini_pagos/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 61ms (Views: 52.0ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:50 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:50 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:50 -0500
+Served asset /scaffolds.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:50 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:50 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:50 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:50 -0500
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/mini_pagos" for 127.0.0.1 at 2012-07-26 13:05:54 -0500
+Processing by MiniPagosController#index as HTML
+  [1m[35mMiniPago Load (1.0ms)[0m  SELECT "mini_pagos".* FROM "mini_pagos" 
+  Rendered mini_pagos/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 30ms (Views: 27.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:54 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:54 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 13:05:55 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:55 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:55 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:55 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 13:05:55 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/mini_pagos/1" for 127.0.0.1 at 2012-07-26 14:02:09 -0500
+Processing by MiniPagosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mMiniPago Load (1.0ms)[0m  [1mSELECT "mini_pagos".* FROM "mini_pagos" WHERE "mini_pagos"."id" = $1 LIMIT 1[0m  [["id", "1"]]
+  Rendered mini_pagos/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 101ms (Views: 98.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 14:02:10 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 14:02:10 -0500
+Served asset /home.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 14:02:10 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 14:02:10 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 14:02:10 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 14:02:10 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 14:02:10 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 14:02:10 -0500
+Served asset /mini_pagos.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 14:02:10 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/mini_pagos/2" for 127.0.0.1 at 2012-07-26 14:02:22 -0500
+Processing by MiniPagosController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mMiniPago Load (1.0ms)[0m  SELECT "mini_pagos".* FROM "mini_pagos" WHERE "mini_pagos"."id" = $1 LIMIT 1  [["id", "2"]]
+Completed 500 Internal Server Error in 3ms
+
+ActiveRecord::RecordNotFound (Couldn't find MiniPago with id=2):
+  app/controllers/mini_pagos_controller.rb:16:in `show'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (119.0ms)
+
+
+Started GET "/mini_pagos" for 127.0.0.1 at 2012-07-26 14:26:22 -0500
+Connecting to database specified by database.yml
+Processing by MiniPagosController#index as HTML
+  [1m[36mMiniPago Load (23.0ms)[0m  [1mSELECT "mini_pagos".* FROM "mini_pagos" [0m
+  Rendered mini_pagos/index.html.erb within layouts/application (151.0ms)
+Completed 200 OK in 1533ms (Views: 972.0ms | ActiveRecord: 99.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 14:26:31 -0500
+Served asset /application.css - 304 Not Modified (13ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 14:26:31 -0500
+Served asset /home.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 14:26:31 -0500
+Served asset /scaffolds.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 14:26:31 -0500
+Served asset /mini_pagos.css - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 14:26:31 -0500
+Served asset /jquery.js - 304 Not Modified (105ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 14:26:31 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 14:26:31 -0500
+Served asset /home.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 14:26:31 -0500
+Served asset /mini_pagos.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 14:26:31 -0500
+Served asset /application.js - 304 Not Modified (103ms)
+
+
+Started GET "/mini_pagos/new" for 127.0.0.1 at 2012-07-26 14:27:58 -0500
+Processing by MiniPagosController#new as HTML
+  Rendered mini_pagos/_form.html.erb (123.0ms)
+  Rendered mini_pagos/new.html.erb within layouts/application (221.0ms)
+Completed 200 OK in 251ms (Views: 250.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 14:27:59 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 14:27:59 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 14:27:59 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 14:27:59 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 14:27:59 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 14:27:59 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 14:27:59 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 14:27:59 -0500
+Served asset /mini_pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 14:27:59 -0500
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started POST "/mini_pagos" for 127.0.0.1 at 2012-07-26 14:28:12 -0500
+Processing by MiniPagosController#create as HTML
+  Parameters: {"utf8"=>"âœ“", "authenticity_token"=>"zx5/LLHRfGihtQqYm4StWDJsy0WwNKTxymgEJ6W33H0=", "mini_pago"=>{"id_pago"=>"21331", "dni"=>"32321321", "folio"=>"243124213132132", "monto"=>"445.8", "fecha_pago(1i)"=>"2012", "fecha_pago(2i)"=>"7", "fecha_pago(3i)"=>"24"}, "commit"=>"Create Mini pago"}
+  [1m[35m (0.0ms)[0m  BEGIN
+  [1m[36mSQL (90.0ms)[0m  [1mINSERT INTO "mini_pagos" ("created_at", "dni", "fecha_pago", "folio", "id_pago", "monto", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["created_at", Thu, 26 Jul 2012 19:28:12 UTC +00:00], ["dni", "32321321"], ["fecha_pago", Tue, 24 Jul 2012], ["folio", "243124213132132"], ["id_pago", 21331], ["monto", 445.8], ["updated_at", Thu, 26 Jul 2012 19:28:12 UTC +00:00]]
+  [1m[35m (13.0ms)[0m  COMMIT
+Redirected to http://localhost:3000/mini_pagos/2
+Completed 302 Found in 111ms (ActiveRecord: 103.0ms)
+
+
+Started GET "/mini_pagos/2" for 127.0.0.1 at 2012-07-26 14:28:12 -0500
+Processing by MiniPagosController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mMiniPago Load (2.0ms)[0m  [1mSELECT "mini_pagos".* FROM "mini_pagos" WHERE "mini_pagos"."id" = $1 LIMIT 1[0m  [["id", "2"]]
+  Rendered mini_pagos/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 34ms (Views: 28.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 14:28:12 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 14:28:12 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 14:28:12 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 14:28:13 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 14:28:13 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 14:28:13 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 14:28:13 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 14:28:13 -0500
+Served asset /mini_pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 14:28:13 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/mini_pagos" for 127.0.0.1 at 2012-07-26 14:28:15 -0500
+Processing by MiniPagosController#index as HTML
+  [1m[35mMiniPago Load (1.0ms)[0m  SELECT "mini_pagos".* FROM "mini_pagos" 
+  Rendered mini_pagos/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 31ms (Views: 28.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 14:28:15 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 14:28:15 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 14:28:16 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 14:28:16 -0500
+Served asset /scaffolds.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 14:28:16 -0500
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 14:28:16 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 14:28:16 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 14:28:16 -0500
+Served asset /mini_pagos.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 14:28:16 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 14:40:58 -0500
+Connecting to database specified by database.yml
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (75.0ms)
+Compiled tb_via.css  (78ms)  (pid 4120)
+Compiled application.css  (176ms)  (pid 4120)
+Compiled tb_via.js  (584ms)  (pid 4120)
+Compiled application.js  (670ms)  (pid 4120)
+Completed 200 OK in 1887ms (Views: 1886.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 14:41:06 -0500
+Served asset /home.css - 304 Not Modified (22ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 14:41:06 -0500
+Served asset /scaffolds.css - 304 Not Modified (8ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 14:41:06 -0500
+Served asset /tb_via.css - 200 OK (6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 14:41:06 -0500
+Served asset /application.css - 304 Not Modified (19ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 14:41:06 -0500
+Served asset /mini_pagos.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 14:41:06 -0500
+Served asset /jquery.js - 304 Not Modified (83ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 14:41:07 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (62ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 14:41:07 -0500
+Served asset /home.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 14:41:07 -0500
+Served asset /mini_pagos.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 14:41:07 -0500
+Served asset /tb_via.js - 200 OK (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 14:41:07 -0500
+Served asset /application.js - 304 Not Modified (127ms)
+
+
+Started GET "/tb_via" for 127.0.0.1 at 2012-07-26 14:41:12 -0500
+Processing by TbViaController#index as HTML
+  [1m[36mTbVium Load (4.0ms)[0m  [1mSELECT "tb_via".* FROM "tb_via" [0m
+  Rendered tb_via/index.html.erb within layouts/application (48.0ms)
+Completed 200 OK in 609ms (Views: 105.0ms | ActiveRecord: 81.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 14:41:13 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 14:41:13 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 14:41:13 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 14:41:13 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 14:41:13 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 14:41:13 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 14:41:13 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 14:41:13 -0500
+Served asset /mini_pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 14:41:13 -0500
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/tb_via" for 127.0.0.1 at 2012-07-26 14:48:05 -0500
+Processing by TbViaController#index as HTML
+  [1m[35mTbVium Load (26.0ms)[0m  SELECT "tb_via".* FROM "tb_via" 
+  Rendered tb_via/index.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 108ms (Views: 79.0ms | ActiveRecord: 26.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 14:48:05 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 14:48:05 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 14:48:05 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 14:48:06 -0500
+Served asset /tb_via.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 14:48:06 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 14:48:06 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 14:48:06 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 14:48:06 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 14:48:06 -0500
+Served asset /mini_pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 14:48:06 -0500
+Served asset /tb_via.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 14:48:06 -0500
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/tb_via/2" for 127.0.0.1 at 2012-07-26 14:49:45 -0500
+Processing by TbViaController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mTbVium Load (2.0ms)[0m  [1mSELECT "tb_via".* FROM "tb_via" WHERE "tb_via"."id_via" = $1 LIMIT 1[0m  [["id_via", "2"]]
+  Rendered tb_via/show.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 41ms (Views: 36.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 14:49:45 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 14:49:45 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 14:49:46 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 14:49:46 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 14:49:46 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 14:49:46 -0500
+Served asset /tb_via.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 14:49:46 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 14:49:46 -0500
+Served asset /home.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 14:49:46 -0500
+Served asset /mini_pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 14:49:46 -0500
+Served asset /tb_via.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 14:49:46 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/tb_via" for 127.0.0.1 at 2012-07-26 14:49:50 -0500
+Processing by TbViaController#index as HTML
+  [1m[35mTbVium Load (1.0ms)[0m  SELECT "tb_via".* FROM "tb_via" 
+  Rendered tb_via/index.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 60ms (Views: 56.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 14:49:50 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 14:49:50 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 14:49:50 -0500
+Served asset /tb_via.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 14:49:50 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 14:49:50 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 14:49:50 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 14:49:51 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 14:49:51 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 14:49:51 -0500
+Served asset /mini_pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 14:49:51 -0500
+Served asset /tb_via.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 14:49:51 -0500
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/tb_via" for 127.0.0.1 at 2012-07-26 15:08:56 -0500
+Processing by TbViaController#index as HTML
+  [1m[36mTbVium Load (2.0ms)[0m  [1mSELECT "tb_via".* FROM "tb_via" [0m
+  Rendered tb_via/index.html.erb within layouts/application (50.0ms)
+Compiled bootstrap-responsive.css  (0ms)  (pid 4120)
+Compiled bootstrap-responsive.min.css  (3ms)  (pid 4120)
+Compiled bootstrap.css  (2ms)  (pid 4120)
+Compiled bootstrap.min.css  (2ms)  (pid 4120)
+Compiled application.css  (367ms)  (pid 4120)
+Completed 200 OK in 614ms (Views: 611.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/bootstrap-responsive.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:08:57 -0500
+Served asset /bootstrap-responsive.min.css - 200 OK (34ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-07-26 15:08:57 -0500
+Served asset /bootstrap.css - 200 OK (66ms)
+
+
+Started GET "/assets/bootstrap-responsive.css?body=1" for 127.0.0.1 at 2012-07-26 15:08:58 -0500
+Served asset /bootstrap-responsive.css - 200 OK (16ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 15:08:58 -0500
+Served asset /application.css - 304 Not Modified (106ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 15:08:58 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:08:58 -0500
+Served asset /bootstrap.min.css - 200 OK (27ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 15:08:58 -0500
+Served asset /mini_pagos.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 15:08:58 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 15:08:58 -0500
+Served asset /tb_via.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/css/bootstrap.css" for 127.0.0.1 at 2012-07-26 15:08:58 -0500
+Served asset /css/bootstrap.css - 404 Not Found (27ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/css/bootstrap.css"):
+  actionpack (3.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.6) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.6) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.6) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.6) lib/rails/engine.rb:479:in `call'
+  railties (3.2.6) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.6) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 15:08:58 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 15:08:58 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 15:08:59 -0500
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 15:08:59 -0500
+Served asset /mini_pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 15:08:59 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 15:08:59 -0500
+Served asset /tb_via.js - 304 Not Modified (0ms)
+
+
+Started GET "/tb_via" for 127.0.0.1 at 2012-07-26 15:09:20 -0500
+Processing by TbViaController#index as HTML
+  [1m[35mTbVium Load (2.0ms)[0m  SELECT "tb_via".* FROM "tb_via" 
+  Rendered tb_via/index.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 88ms (Views: 57.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 15:09:20 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap-responsive.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:09:20 -0500
+Served asset /bootstrap-responsive.min.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:09:20 -0500
+Served asset /bootstrap.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-responsive.css?body=1" for 127.0.0.1 at 2012-07-26 15:09:20 -0500
+Served asset /bootstrap-responsive.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-07-26 15:09:20 -0500
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 15:09:20 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 15:09:20 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 15:09:20 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 15:09:20 -0500
+Served asset /tb_via.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/css/bootstrap.css" for 127.0.0.1 at 2012-07-26 15:09:21 -0500
+Served asset /css/bootstrap.css - 404 Not Found (9ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/css/bootstrap.css"):
+  actionpack (3.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.6) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.6) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.6) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.6) lib/rails/engine.rb:479:in `call'
+  railties (3.2.6) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.6) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 15:09:21 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 15:09:21 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 15:09:21 -0500
+Served asset /tb_via.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 15:09:21 -0500
+Served asset /home.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 15:09:21 -0500
+Served asset /mini_pagos.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 15:09:21 -0500
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/tb_via/1/edit" for 127.0.0.1 at 2012-07-26 15:17:20 -0500
+Processing by TbViaController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTbVium Load (0.0ms)[0m  [1mSELECT "tb_via".* FROM "tb_via" WHERE "tb_via"."id_via" = $1 LIMIT 1[0m  [["id_via", "1"]]
+  Rendered tb_via/_form.html.erb (89.0ms)
+  Rendered tb_via/edit.html.erb within layouts/application (286.0ms)
+Completed 200 OK in 348ms (Views: 345.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:21 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-responsive.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:21 -0500
+Served asset /bootstrap-responsive.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-responsive.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:21 -0500
+Served asset /bootstrap-responsive.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:21 -0500
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:21 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:21 -0500
+Served asset /bootstrap.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:21 -0500
+Served asset /mini_pagos.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:21 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:21 -0500
+Served asset /tb_via.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:21 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:22 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:22 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:22 -0500
+Served asset /mini_pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:22 -0500
+Served asset /tb_via.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:22 -0500
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started PUT "/tb_via/1" for 127.0.0.1 at 2012-07-26 15:17:32 -0500
+Processing by TbViaController#update as HTML
+  Parameters: {"utf8"=>"âœ“", "authenticity_token"=>"zx5/LLHRfGihtQqYm4StWDJsy0WwNKTxymgEJ6W33H0=", "tb_vium"=>{"id_via"=>"1", "descripcion"=>"NO REGISTRA", "fec_registro(1i)"=>"2010", "fec_registro(2i)"=>"11", "fec_registro(3i)"=>"9", "id_estado"=>"1"}, "commit"=>"Update Tb vium", "id"=>"1"}
+  [1m[35mTbVium Load (7.0ms)[0m  SELECT "tb_via".* FROM "tb_via" WHERE "tb_via"."id_via" = $1 LIMIT 1  [["id_via", "1"]]
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (162.0ms)[0m  UPDATE "tb_via" SET "fec_registro" = '2010-11-09 00:00:00.000000' WHERE "tb_via"."id_via" = 1
+  [1m[36m (38.0ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/tb_via/1
+Completed 302 Found in 329ms (ActiveRecord: 207.0ms)
+
+
+Started GET "/tb_via/1" for 127.0.0.1 at 2012-07-26 15:17:32 -0500
+Processing by TbViaController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mTbVium Load (1.0ms)[0m  SELECT "tb_via".* FROM "tb_via" WHERE "tb_via"."id_via" = $1 LIMIT 1  [["id_via", "1"]]
+  Rendered tb_via/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 34ms (Views: 32.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:33 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap-responsive.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:33 -0500
+Served asset /bootstrap-responsive.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-responsive.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:33 -0500
+Served asset /bootstrap-responsive.min.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:33 -0500
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:33 -0500
+Served asset /bootstrap.min.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:33 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:33 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:33 -0500
+Served asset /tb_via.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:33 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:34 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:34 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:34 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:34 -0500
+Served asset /mini_pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:34 -0500
+Served asset /tb_via.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:34 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/tb_via" for 127.0.0.1 at 2012-07-26 15:17:38 -0500
+Processing by TbViaController#index as HTML
+  [1m[36mTbVium Load (1.0ms)[0m  [1mSELECT "tb_via".* FROM "tb_via" [0m
+  Rendered tb_via/index.html.erb within layouts/application (45.0ms)
+Completed 200 OK in 81ms (Views: 78.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:38 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-responsive.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:38 -0500
+Served asset /bootstrap-responsive.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-responsive.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:38 -0500
+Served asset /bootstrap-responsive.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:38 -0500
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:39 -0500
+Served asset /bootstrap.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:39 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:39 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:39 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:39 -0500
+Served asset /tb_via.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/css/bootstrap.css" for 127.0.0.1 at 2012-07-26 15:17:39 -0500
+Served asset /css/bootstrap.css - 404 Not Found (16ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/css/bootstrap.css"):
+  actionpack (3.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.6) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.6) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.6) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.6) lib/rails/engine.rb:479:in `call'
+  railties (3.2.6) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.6) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:39 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:39 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:39 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:39 -0500
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:39 -0500
+Served asset /mini_pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:39 -0500
+Served asset /tb_via.js - 304 Not Modified (0ms)
+
+
+Started GET "/tb_via/2/edit" for 127.0.0.1 at 2012-07-26 15:17:43 -0500
+Processing by TbViaController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mTbVium Load (1.0ms)[0m  SELECT "tb_via".* FROM "tb_via" WHERE "tb_via"."id_via" = $1 LIMIT 1  [["id_via", "2"]]
+  Rendered tb_via/_form.html.erb (33.0ms)
+  Rendered tb_via/edit.html.erb within layouts/application (40.0ms)
+Completed 200 OK in 74ms (Views: 71.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:43 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap-responsive.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:43 -0500
+Served asset /bootstrap-responsive.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:43 -0500
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-responsive.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:43 -0500
+Served asset /bootstrap-responsive.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:43 -0500
+Served asset /bootstrap.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:43 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:43 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:43 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 15:17:44 -0500
+Served asset /tb_via.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:44 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:44 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:44 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:44 -0500
+Served asset /mini_pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:44 -0500
+Served asset /tb_via.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 15:17:44 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/tb_via/2/edit" for 127.0.0.1 at 2012-07-26 15:21:40 -0500
+Processing by TbViaController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mTbVium Load (1.0ms)[0m  [1mSELECT "tb_via".* FROM "tb_via" WHERE "tb_via"."id_via" = $1 LIMIT 1[0m  [["id_via", "2"]]
+  Rendered tb_via/_form.html.erb (9.0ms)
+  Rendered tb_via/edit.html.erb within layouts/application (45.0ms)
+Completed 200 OK in 104ms (Views: 101.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:41 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/bootstrap-responsive.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:41 -0500
+Served asset /bootstrap-responsive.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:41 -0500
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:41 -0500
+Served asset /bootstrap.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-responsive.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:41 -0500
+Served asset /bootstrap-responsive.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:41 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:41 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:41 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:41 -0500
+Served asset /tb_via.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:41 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:41 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:42 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:42 -0500
+Served asset /mini_pagos.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:42 -0500
+Served asset /tb_via.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:42 -0500
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-07-26 15:21:46 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 42ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:46 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap-responsive.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:46 -0500
+Served asset /bootstrap-responsive.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-responsive.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:46 -0500
+Served asset /bootstrap-responsive.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:46 -0500
+Served asset /bootstrap.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:46 -0500
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:46 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:46 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:47 -0500
+Served asset /scaffolds.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:47 -0500
+Served asset /tb_via.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:47 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:47 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:47 -0500
+Served asset /mini_pagos.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:47 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:47 -0500
+Served asset /tb_via.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:47 -0500
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/tb_via" for 127.0.0.1 at 2012-07-26 15:21:50 -0500
+Processing by TbViaController#index as HTML
+  [1m[35mTbVium Load (2.0ms)[0m  SELECT "tb_via".* FROM "tb_via" 
+  Rendered tb_via/index.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 86ms (Views: 81.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:50 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-responsive.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:50 -0500
+Served asset /bootstrap-responsive.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:50 -0500
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:50 -0500
+Served asset /bootstrap.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-responsive.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:50 -0500
+Served asset /bootstrap-responsive.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:50 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:50 -0500
+Served asset /mini_pagos.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:50 -0500
+Served asset /scaffolds.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 15:21:50 -0500
+Served asset /tb_via.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/css/bootstrap.css" for 127.0.0.1 at 2012-07-26 15:21:51 -0500
+Served asset /css/bootstrap.css - 404 Not Found (10ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/css/bootstrap.css"):
+  actionpack (3.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.6) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.6) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.6) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.6) lib/rails/engine.rb:479:in `call'
+  railties (3.2.6) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.6) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (6.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:51 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:51 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:51 -0500
+Served asset /tb_via.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:51 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:51 -0500
+Served asset /mini_pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 15:21:51 -0500
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/tb_via" for 127.0.0.1 at 2012-07-26 15:28:36 -0500
+Processing by TbViaController#index as HTML
+  [1m[36mTbVium Load (1.0ms)[0m  [1mSELECT "tb_via".* FROM "tb_via" ORDER BY id_via[0m
+  Rendered tb_via/index.html.erb within layouts/application (28.0ms)
+Completed 200 OK in 84ms (Views: 64.0ms | ActiveRecord: 7.0ms)
+
+
+Started GET "/assets/bootstrap-responsive.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:28:36 -0500
+Served asset /bootstrap-responsive.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-26 15:28:36 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-responsive.css?body=1" for 127.0.0.1 at 2012-07-26 15:28:36 -0500
+Served asset /bootstrap-responsive.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2012-07-26 15:28:36 -0500
+Served asset /bootstrap.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2012-07-26 15:28:36 -0500
+Served asset /bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-07-26 15:28:36 -0500
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mini_pagos.css?body=1" for 127.0.0.1 at 2012-07-26 15:28:37 -0500
+Served asset /mini_pagos.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-07-26 15:28:37 -0500
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/css/bootstrap.css" for 127.0.0.1 at 2012-07-26 15:28:37 -0500
+Served asset /css/bootstrap.css - 404 Not Found (13ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/css/bootstrap.css"):
+  actionpack (3.2.6) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.6) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.6) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.6) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.6) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.6) lib/rails/engine.rb:479:in `call'
+  railties (3.2.6) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.6) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  C:/Ruby193/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered C:/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.6/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/tb_via.css?body=1" for 127.0.0.1 at 2012-07-26 15:28:37 -0500
+Served asset /tb_via.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-26 15:28:37 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-26 15:28:37 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-07-26 15:28:37 -0500
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tb_via.js?body=1" for 127.0.0.1 at 2012-07-26 15:28:37 -0500
+Served asset /tb_via.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/mini_pagos.js?body=1" for 127.0.0.1 at 2012-07-26 15:28:37 -0500
+Served asset /mini_pagos.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-26 15:28:37 -0500
+Served asset /application.js - 304 Not Modified (2ms)

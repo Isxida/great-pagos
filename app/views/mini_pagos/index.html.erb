@@ -1,0 +1,31 @@
+<h1>Listing mini_pagos</h1>
+
+<table>
+  <tr>
+    <th>Id pago</th>
+    <th>Dni</th>
+    <th>Folio</th>
+    <th>Monto</th>
+    <th>Fecha pago</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @mini_pagos.each do |mini_pago| %>
+  <tr>
+    <td><%= mini_pago.id_pago %></td>
+    <td><%= mini_pago.dni %></td>
+    <td><%= mini_pago.folio %></td>
+    <td><%= mini_pago.monto %></td>
+    <td><%= mini_pago.fecha_pago %></td>
+    <td><%= link_to 'Show', mini_pago %></td>
+    <td><%= link_to 'Edit', edit_mini_pago_path(mini_pago) %></td>
+    <td><%= link_to 'Destroy', mini_pago, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Mini pago', new_mini_pago_path %>

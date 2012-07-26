@@ -1,0 +1,33 @@
+<%= form_for(@tb_vium) do |f| %>
+  <% if @tb_vium.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@tb_vium.errors.count, "error") %> prohibited this tb_vium from being saved:</h2>
+
+      <ul>
+      <% @tb_vium.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :id_via %><br />
+    <%= f.number_field :id_via %>
+  </div>
+  <div class="field">
+    <%= f.label :descripcion %><br />
+    <%= f.text_field :descripcion %>
+  </div>
+  <div class="field">
+    <%= f.label :fec_registro %><br />
+    <%= f.date_select :fec_registro %>
+  </div>
+  <div class="field">
+    <%= f.label :id_estado %><br />
+    <%= f.number_field :id_estado %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

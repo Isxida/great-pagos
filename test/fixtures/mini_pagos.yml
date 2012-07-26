@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id_pago: 
+  dni: MyText
+  folio: MyText
+  monto: 
+  fecha_pago: 2012-07-26
+
+two:
+  id_pago: 
+  dni: MyText
+  folio: MyText
+  monto: 
+  fecha_pago: 2012-07-26

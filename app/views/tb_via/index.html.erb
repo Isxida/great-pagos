@@ -1,0 +1,29 @@
+<h1>Listado de Vias</h1>
+<link href="../../assets/css/bootstrap.css" rel="stylesheet">
+<table class="table table-bordered">
+  <tr>
+    <th>Id via</th>
+    <th>Descripcion</th>
+    <th>Fec registro</th>
+    <th>Id estado</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @tb_via.each do |tb_vium| %>
+  <tr>
+    <td><%= tb_vium.id_via %></td>
+    <td><%= tb_vium.descripcion %></td>
+    <td><%= tb_vium.fec_registro %></td>
+    <td><%= tb_vium.id_estado %></td>
+    <td><%= link_to 'Mostrar', tb_vium %></td>
+    <td><%= link_to 'Editar', edit_tb_vium_path(tb_vium) %></td>
+    <td><%= link_to 'Eliminar', tb_vium, method: :delete, data: { confirm: 'Seguro?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'Crear nuevo', new_tb_vium_path %>

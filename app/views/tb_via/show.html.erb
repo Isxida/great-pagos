@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Id via:</b>
+  <%= @tb_vium.id_via %>
+</p>
+
+<p>
+  <b>Descripcion:</b>
+  <%= @tb_vium.descripcion %>
+</p>
+
+<p>
+  <b>Fec registro:</b>
+  <%= @tb_vium.fec_registro %>
+</p>
+
+<p>
+  <b>Id estado:</b>
+  <%= @tb_vium.id_estado %>
+</p>
+
+
+<%= link_to 'Editar', edit_tb_vium_path(@tb_vium) %> |
+<%= link_to 'Atras', tb_via_path %>

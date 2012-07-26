@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Id pago:</b>
+  <%= @mini_pago.id_pago %>
+</p>
+
+<p>
+  <b>Dni:</b>
+  <%= @mini_pago.dni %>
+</p>
+
+<p>
+  <b>Folio:</b>
+  <%= @mini_pago.folio %>
+</p>
+
+<p>
+  <b>Monto:</b>
+  <%= @mini_pago.monto %>
+</p>
+
+<p>
+  <b>Fecha pago:</b>
+  <%= @mini_pago.fecha_pago %>
+</p>
+
+
+<%= link_to 'Edit', edit_mini_pago_path(@mini_pago) %> |
+<%= link_to 'Back', mini_pagos_path %>

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id_via: 1
+  descripcion: MyString
+  fec_registro: 2012-07-26
+  id_estado: 1
+
+two:
+  id_via: 1
+  descripcion: MyString
+  fec_registro: 2012-07-26
+  id_estado: 1
